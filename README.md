@@ -46,7 +46,7 @@ O **To-Do List Dinâmica** é uma aplicação interativa para gerenciamento de t
 
 ## Possíveis Expansões Futuras 🌱
 
-- Acesso TO DO LIST <a href="">To Do List</a>
+- Acesso TO DO LIST <a href="https://to-do-list-lake-beta.vercel.app/">To Do List</a>
 ## 💬 Contato
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
